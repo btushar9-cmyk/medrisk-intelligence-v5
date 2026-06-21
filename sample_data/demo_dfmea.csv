@@ -1,0 +1,2 @@
+Item Number,Failure Mode,Potential Effect,Potential Cause,Severity,Occurrence,Detection,RPN,Current Controls,Recommended Action,Part Number
+DF-014,Barcode version identifier missing,Device may be unavailable at point of use,Design output does not require identifier field,8,2,4,64,Label specification review,Clarify required data string and verification requirement,PT00123456

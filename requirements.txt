@@ -1,0 +1,9 @@
+streamlit>=1.36
+pandas>=2.1
+openpyxl>=3.1
+xlrd>=2.0
+pypdf>=4.2
+python-docx>=1.1
+scikit-learn>=1.4
+plotly>=5.22
+rapidfuzz>=3.9

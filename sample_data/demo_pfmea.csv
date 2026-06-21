@@ -1,0 +1,2 @@
+Process Step,Failure Mode,Potential Effect,Potential Cause,Severity,Occurrence,Detection,RPN,Current Controls,Recommended Action,Part Number,Event Date
+Patient label generation,Barcode version identifier missing,Incorrect or incomplete barcode data,Label template mismatch,8,3,4,96,100% barcode scan,Add field-level identifier verification to scan logic,PT00123456,2026-06-01

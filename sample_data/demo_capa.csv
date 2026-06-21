@@ -1,0 +1,2 @@
+CAPA Number,Root Cause,Corrective Action,Effectiveness Check,Owner,Due Date,Part Number,Date Opened
+CAPA-123,Label template mismatch,Add field-level identifier verification to scan logic,Review 30 consecutive lots with zero missed identifier defects,Quality Engineering,2026-07-15,PT00123456,2026-06-05
